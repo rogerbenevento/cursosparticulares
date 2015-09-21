@@ -1,7 +1,9 @@
 ## Curso de node.js particular
 #### Sobre este curso 
-O curso é intensivo, prático e visa promover o ganho maior de conhecimento do aluno, porque as aulas são dedicadas unicamente a um aluno  por aula/hora, o que pude observar que na minha carreira como aluno foi que as dificuldades de aprendizado se encontra em sala de aula, por basicamente, ter pessoas que não respeitam quando um aluno faz uma pergunta (por dúvida, claro) que seja muito básica e também por que o professor não consegue dedicar totoal atenção ao aluno. E talvez este tenha sido um dos grandes motivos de eu ter me tornado professor em tecnologia web, especificamente: node.js e javascript.  
-**O curso possuí 30h e é mais focado na API do node.js**
+O curso é intensivo, prático e visa promover o ganho maior de conhecimento do aluno, porque as aulas são dedicadas unicamente a um aluno  por aula/hora, o que pude observar que na minha carreira como aluno foi que as dificuldades de aprendizado se encontra em sala de aula, por basicamente, ter pessoas que não respeitam quando um aluno faz uma pergunta (por dúvida, claro) que seja muito básica e também por que o professor não consegue dedicar total atenção ao aluno. E talvez este tenha sido um dos grandes motivos de eu ter me tornado professor em tecnologia web, especificamente: node.js e javascript.  
+O curso possuí 30h e é mais focado na API do node.js, *essa ementa pode sofrer alterações*.
+#### Requisitos  
+Conhecer a **API** JAVASCRIPT ou ter feito o curso particular de javascript ou algum outro curso de javascript, e não deixar de ver o curso de javascript funcional do Jean Carlo Nascimento(Suissa), link [aqui](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg).
 #### Ementa do curso
 1. **Introdução ao node.js**  
 	O que é o node.js?  
@@ -36,13 +38,14 @@ O curso é intensivo, prático e visa promover o ganho maior de conhecimento do 
 	Prática: usando o fs.  
 11. **Programação assíncrona, mantra do node.js**  
 	Teoria: O que é programação assíncrona e por que ela é o mantra do node.js?  
+	Teoria: Evitando o **callbackhell(ou efeito boomerang)**.  
 	Prática: Criando estruturas do código assíncrono.  
 12. **Npm**  
 	Teoria: Para que server o npm?  
 	Prática: Criando módulos para o npm.
 13. **Express**  
-	Teoria: Para que serve o express.js?  
-	Prática: Criando um webservice restifull
+	Teoria: Para que serve o express.js? O que é um webservice?  
+	Prática: Criando um webservice restfull.
 14. **Clusters**  
 	Teoria:  O que é "clusterizar" uma app?  
-	Prática: Clusterizando nosso webservice restifull  
+	Prática: Clusterizando nosso webservice restfull.  
