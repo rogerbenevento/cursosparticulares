@@ -4,7 +4,7 @@ Lógica de programação.
 Ter o node.js instalado  
 Conhecer o sistema operacional que mais usa.  
 Recomenda-se o uso de alguma distro Linux ou uso do sistema MacOS.  
-Acompanhar as aulas gratuitas de jsFuncional da webschool [link aqui]("https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg")  
+Acompanhar as aulas gratuitas de jsFuncional da webschool [link aqui](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg)  
 #### A proposta
 O curso visa viabilizar conhecimento sólido na **API** **Javascript** para quem precisa de conhecimento.  
 Com aulas dedicadas, o aluno tem o acompanhamento do professor que se disponibiliza em tempo real de execução de exercícios, validando a dificuldade de aprendizado do aluno com uma metodologia diferenciada o aluno aprende muito mais com as aulas dedicadas(particulares) do que aulas em sala de aula.
@@ -43,7 +43,7 @@ Criada para fins didáticos, essa ementa visa viabilizar conhecimento sólido da
 
 #### Contatos  
 
-Facebook [Perfil]("http://facebook.com.br/caio.cutrim.3")  
-Twitter [Perfil]("http://twitter.com.br/CaioCutrim1989")  
-Google Plus [Perfil]("https://plus.google.com/+CaioCutrimWebFullStack/posts")
+Facebook [Perfil](http://facebook.com.br/caio.cutrim.3)  
+Twitter [Perfil](http://twitter.com.br/CaioCutrim1989)  
+Google Plus [Perfil](https://plus.google.com/+CaioCutrimWebFullStack/posts)
 
