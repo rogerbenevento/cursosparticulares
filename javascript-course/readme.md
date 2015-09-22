@@ -31,6 +31,7 @@ Criada para fins didáticos, essa ementa visa viabilizar conhecimento sólido da
 2.7 Ajax  
 2.8 DOM  
 2.9 Recursividade  
+2.10 Regex  
 3. Javascript III  
 3.1 Organizando um projeto, uma agenda de contato  
 3.2 Integrando com o webservice node.js  
