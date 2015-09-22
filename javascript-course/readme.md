@@ -15,30 +15,32 @@ O valor das aulas é proporcional ao que o aluno aprende (esse é o principal va
 Criada para fins didáticos, essa ementa visa viabilizar conhecimento sólido da **api** de javascript, trazendo no final um tutorial de uma aplicação criada puramente em javascript, validando o conhecimento adquirido no curso
 #### Ementa  
 1. Javascript I  
-	1.1 Uma breve história do Javascript (introdução à linguagem)  
-	1.2 Variável  
-	1.3 Array  
-	1.4 Objetos  
-	1.5 Function  
-	1.6 Prototypes  
+1.1 Uma breve história do Javascript (introdução à linguagem)  
+1.2 Variável  
+1.3 Array  
+1.4 Objetos  
+1.5 Function  
+1.6 Prototypes  
 2. Javascript II  
-	2.1 Hoisting  
-	2.2 Higher-Order Functions  
-	2.3 Object First Class  
-	2.4 Programação Assíncrona(CPS)  
-	2.5 Programação com suporte a eventos  
-	2.6 POJO  
-	2.7 Ajax  
-	2.8 DOM  
-	2.9 Recursividade  
+2.1 Hoisting  
+2.2 Higher-Order Functions  
+2.3 Object First Class  
+2.4 Programação Assíncrona(CPS)  
+2.5 Programação com suporte a eventos  
+2.6 POJO  
+2.7 Ajax  
+2.8 DOM  
+2.9 Recursividade  
 3. Javascript III  
-	3.1 Organizando um projeto, uma agenda de contato  
-	3.2 Integrando com o webservice node.js  
-	3.3 Criando eventos de UI  
-	3.4 Dragable events HTML5 API  
-	3.5 CRUD  
-	3.6 TDD  
-	3.7 Declarações finais  
+3.1 Organizando um projeto, uma agenda de contato  
+3.2 Integrando com o webservice node.js  
+3.3 Criando eventos de UI  
+3.4 Dragable events HTML5 API  
+3.5 CRUD  
+3.6 TDD  
+3.7 Declarações finais  
+
+
 #### Contatos  
 
 Facebook [Perfil]("http://facebook.com.br/caio.cutrim.3")  
