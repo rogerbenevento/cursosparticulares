@@ -20,9 +20,9 @@ Criada para fins didáticos, essa ementa visa viabilizar conhecimento sólido da
 1.3 Array  
 1.4 Objetos  
 1.5 Function  
-1.6 Prototypes
-1.7 Estrutura de controle  
-1.8 Laços de repetição  
+1.6 Prototypes  
+1.7 Estrutura de controle    
+1.8 Laços de repetição    
 2. Javascript II  
 2.1 Hoisting  
 2.2 Higher-Order Functions  
